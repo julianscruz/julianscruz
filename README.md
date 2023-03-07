@@ -1,13 +1,28 @@
-<h1 align="center">Cesar Julian Solano Cruz</h1>
-<a href="https://www.linkedin.com/in/julianscruz/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/frankurk" width="50" /></a>
+<h1 align="center">
+  Cesar Julian Solano Cruz <br />
+  <a href="https://www.linkedin.com/in/julianscruz/" target="blank"
+    ><img
+      align="center"
+      src="https://img.icons8.com/color/48/000000/linkedin.png"
+      alt="www.linkedin.com/in/frankurk"
+      width="50"
+  /></a>
+</h1>
 
 <p align="left">
-Ingeniero Multimedia con experiencia en desarrollo web Full-Stack y habilidades sólidas en JavaScript, HTML, CSS, Bases de datos relacionales y frameworks Front-end como React; conocimientos en Node.js, PHP, C#, API-REST, GIT, y experiencia con implementaciones básicas de Nginx en AWS y SEO.
-
-Mi educación en 3D, diseño de interfaz y experiencia de usuario me permite crear soluciones interactivas y atractivas para el usuario final. Además, tengo conocimientos de electrónica y experiencia en prototipado con plataformas como Arduino y Raspberry Pi, habilidades en ilustración y edición de imagen, audio y video.
+  Ingeniero Multimedia con experiencia en desarrollo web Full-Stack y
+  habilidades sólidas en JavaScript, HTML, CSS, Bases de datos relacionales y
+  frameworks Front-end como React; conocimientos en Node.js, PHP, C#, API-REST,
+  GIT, y experiencia con implementaciones básicas de Nginx en AWS y SEO. <br /><br />
+  Mi educación en 3D, diseño de interfaz y experiencia de usuario me permite crear
+  soluciones interactivas y atractivas para el usuario final. Además, tengo
+  conocimientos de electrónica y experiencia en prototipado con plataformas como
+  Arduino y Raspberry Pi, habilidades en ilustración y edición de imagen, audio
+  y video.
 </p>
 
-<h3 align="left">Lenguajes & herramientas:</h3>
+<h3 align="center">Lenguajes & herramientas</h3>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -63,6 +78,8 @@ Mi educación en 3D, diseño de interfaz y experiencia de usuario me permite cre
     width="40"
     height="40"
   />
+</p>
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
     alt="npm"
@@ -117,6 +134,8 @@ Mi educación en 3D, diseño de interfaz y experiencia de usuario me permite cre
     width="40"
     height="40"
   />
+</p>
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
     alt="jira"
